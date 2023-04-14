@@ -4,15 +4,16 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url('./abcd.png');
+    background-image: url('./imagefour.jpg');
     background-size: cover;
     background-position: center;
 }
 
 .hero-section-text {
+    background: #ccc
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: white;
+    color: black;
 }
 
 .hero-section-text h1 {
